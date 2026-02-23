@@ -1,4 +1,4 @@
-# Netflix-Movies-TV-Shows-Data-Analysis-Using-Power-BI---Project.
+# Netflix Movies & TV Shows Data Analysis Using Power BI - Project.
 ## key metics
 *This is a Netflix Content Analysis Dashboard developed using Power BI to analyze movies and TV shows data.
 
