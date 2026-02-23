@@ -1,5 +1,5 @@
 # Netflix Movies & TV Shows Data Analysis Using Power BI - Project.
-## key metics
+## key metrics
 *This is a Netflix Content Analysis Dashboard developed using Power BI to analyze movies and TV shows data.
 
 *The dashboard provides a complete overview of total titles, movies, directors, genres, ratings, and release years.
